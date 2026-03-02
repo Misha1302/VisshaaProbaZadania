@@ -1,0 +1,11 @@
+TOP K BY REVENUE (expected):
+1. P007 | Product_7 | 10253.95 | qty=65
+2. P037 | Product_37 | 7743.23 | qty=48
+3. P002 | Product_2 | 7295.07 | qty=44
+4. P001 | Product_1 | 6511.35 | qty=32
+5. P032 | Product_32 | 6225.71 | qty=34
+6. P030 | Product_30 | 6195.27 | qty=30
+7. P023 | Product_23 | 5665.27 | qty=30
+8. P034 | Product_34 | 5424.67 | qty=35
+9. P024 | Product_24 | 5424.12 | qty=40
+10. P009 | Product_9 | 4911.22 | qty=45

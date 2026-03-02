@@ -1,0 +1,200 @@
+[
+  {
+    "folder": "/home/micodiy/razakov/python/VisshaaProbaZabania/BigTask_csv_json_python_sqlite3_folders/tests/sales_root/West/city_2/branch_001",
+    "branch_id": "branch_001",
+    "issues": [
+      {
+        "product_id": "P032",
+        "price_in_db": 180.13,
+        "price_in_csv": 201.6
+      },
+      {
+        "product_id": "P003",
+        "missing_in_db": true
+      }
+    ]
+  },
+  {
+    "folder": "/home/micodiy/razakov/python/VisshaaProbaZabania/BigTask_csv_json_python_sqlite3_folders/tests/sales_root/South/city_4/branch_002",
+    "branch_id": "branch_002",
+    "issues": [
+      {
+        "product_id": "P001",
+        "price_in_db": 194.66,
+        "price_in_csv": 212.61
+      },
+      {
+        "product_id": "P044",
+        "price_in_db": 57.98,
+        "price_in_csv": 57.93
+      },
+      {
+        "product_id": "P013",
+        "missing_in_db": true
+      }
+    ]
+  },
+  {
+    "folder": "/home/micodiy/razakov/python/VisshaaProbaZabania/BigTask_csv_json_python_sqlite3_folders/tests/sales_root/South/city_1/branch_003",
+    "branch_id": "branch_003",
+    "issues": [
+      {
+        "product_id": "P055",
+        "transaction_for_missing_product": true,
+        "tx_id": 52
+      }
+    ]
+  },
+  {
+    "folder": "/home/micodiy/razakov/python/VisshaaProbaZabania/BigTask_csv_json_python_sqlite3_folders/tests/sales_root/North/city_9/branch_004",
+    "branch_id": "branch_004",
+    "issues": [
+      {
+        "product_id": "P008",
+        "price_in_db": 65.04,
+        "price_in_csv": 53.19
+      },
+      {
+        "product_id": "P041",
+        "price_in_db": 5.25,
+        "price_in_csv": 5.09
+      },
+      {
+        "product_id": "P046",
+        "price_in_db": 198.14,
+        "price_in_csv": 219.84
+      },
+      {
+        "product_id": "P048",
+        "price_in_db": 131.92,
+        "price_in_csv": 109.25
+      }
+    ]
+  },
+  {
+    "folder": "/home/micodiy/razakov/python/VisshaaProbaZabania/BigTask_csv_json_python_sqlite3_folders/tests/sales_root/North/city_7/branch_005",
+    "branch_id": "branch_005",
+    "issues": [
+      {
+        "product_id": "P024",
+        "price_in_db": 124.89,
+        "price_in_csv": 143.23
+      },
+      {
+        "product_id": "P008",
+        "price_in_db": 69.79,
+        "price_in_csv": 68.7
+      },
+      {
+        "product_id": "P049",
+        "price_in_db": 55.51,
+        "price_in_csv": 64.62
+      }
+    ]
+  },
+  {
+    "folder": "/home/micodiy/razakov/python/VisshaaProbaZabania/BigTask_csv_json_python_sqlite3_folders/tests/sales_root/South/city_4/branch_006",
+    "branch_id": "branch_006",
+    "issues": [
+      {
+        "product_id": "P023",
+        "price_in_db": 178.4,
+        "price_in_csv": 158.42
+      },
+      {
+        "product_id": "P032",
+        "price_in_db": 173.05,
+        "price_in_csv": 188.73
+      },
+      {
+        "product_id": "P049",
+        "price_in_db": 46.66,
+        "price_in_csv": 38.17
+      },
+      {
+        "product_id": "P021",
+        "missing_in_db": true
+      },
+      {
+        "product_id": "P004",
+        "missing_in_db": true
+      },
+      {
+        "product_id": "P043",
+        "missing_in_db": true
+      }
+    ]
+  },
+  {
+    "folder": "/home/micodiy/razakov/python/VisshaaProbaZabania/BigTask_csv_json_python_sqlite3_folders/tests/sales_root/East/city_3/branch_007",
+    "branch_id": "branch_007",
+    "issues": [
+      {
+        "product_id": "P001",
+        "price_in_db": 194.58,
+        "price_in_csv": 159.06
+      }
+    ]
+  },
+  {
+    "folder": "/home/micodiy/razakov/python/VisshaaProbaZabania/BigTask_csv_json_python_sqlite3_folders/tests/sales_root/North/city_7/branch_008",
+    "branch_id": "branch_008",
+    "issues": [
+      {
+        "product_id": "P055",
+        "transaction_for_missing_product": true,
+        "tx_id": 168
+      },
+      {
+        "product_id": "P006",
+        "price_in_db": 88.9,
+        "price_in_csv": 76.36
+      }
+    ]
+  },
+  {
+    "folder": "/home/micodiy/razakov/python/VisshaaProbaZabania/BigTask_csv_json_python_sqlite3_folders/tests/sales_root/East/city_1/branch_009",
+    "branch_id": "branch_009",
+    "issues": [
+      {
+        "product_id": "P002",
+        "price_in_db": 165.32,
+        "price_in_csv": 172.8
+      }
+    ]
+  },
+  {
+    "folder": "/home/micodiy/razakov/python/VisshaaProbaZabania/BigTask_csv_json_python_sqlite3_folders/tests/sales_root/East/city_5/branch_010",
+    "branch_id": "branch_010",
+    "issues": [
+      {
+        "product_id": "P001",
+        "missing_in_db": true
+      },
+      {
+        "product_id": "P032",
+        "missing_in_db": true
+      },
+      {
+        "product_id": "P023",
+        "missing_in_db": true
+      },
+      {
+        "product_id": "P033",
+        "missing_in_db": true
+      },
+      {
+        "product_id": "P022",
+        "missing_in_db": true
+      },
+      {
+        "product_id": "P006",
+        "missing_in_db": true
+      },
+      {
+        "product_id": "P020",
+        "missing_in_db": true
+      }
+    ]
+  }
+]
