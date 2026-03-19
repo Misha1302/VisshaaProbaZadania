@@ -216,11 +216,11 @@ def load_participant(path: str):
 # ----------------------------
 
 def score_from_parrots(C: int) -> int:
-    if C <= 2_000_000:
+    if C <= 210_000:
         return 100
-    if C <= 5_000_000:
+    if C <= 500_000:
         return 70
-    if C <= 10_000_000:
+    if C <= 1_000_000:
         return 40
     return 0
 
